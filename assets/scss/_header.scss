@@ -1,0 +1,21 @@
+header{
+    .carousel-inner{
+        h1 {
+            font-family: $letraEspecial;        /****** fuente elegida *****/
+            font-size: 80px;  
+            margin: 20px; 
+            font-weight: 400; 
+            color: black;
+        }
+        h2{       
+            font-family: $letraEspecial;    
+            font-size: 50px;  
+            margin: 20px; 
+            font-weight: 400;
+            color: black;
+        }
+        .carousel-caption{
+            padding-bottom: 23rem;
+        }
+    }
+}
